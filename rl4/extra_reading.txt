@@ -1,0 +1,16 @@
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+https://arxiv.org/abs/1801.01290
+
+Soft Actor-Critic Algorithms and Applications
+https://arxiv.org/pdf/1812.05905
+
+Spinning Up Tutorials
+https://spinningup.openai.com/en/latest/algorithms/sac.html
+https://spinningup.openai.com/en/latest/algorithms/trpo.html
+https://spinningup.openai.com/en/latest/algorithms/ppo.html
+
+Approximating KL Divergence
+http://joschu.net/blog/kl-approx.html
+
+High-Dimensional Continuous Control Using Generalized Advantage Estimation
+https://arxiv.org/abs/1506.02438
